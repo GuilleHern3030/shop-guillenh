@@ -31,5 +31,6 @@ window.__APP_CONFIG__ = {
     "jpeg"
   ],
   "apiUrl": "https://apishop.guillenh.com",
-  "origin": "https://shop.guillenh.com"
+  "origin": "https://shop.guillenh.com",
+  "webTitle": "Bazar Shop"
 }
